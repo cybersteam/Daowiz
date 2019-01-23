@@ -1,6 +1,6 @@
 ---
 layout: page_apps
-title: Current Courses
+title: Donate
 permalink: /donate/
 ---
 
