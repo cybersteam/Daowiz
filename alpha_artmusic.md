@@ -1,18 +1,22 @@
 ---
 layout: page_apps
-title: History
+title: Music & Arts
 permalink: /music-arts/
 ---
 
 <!--<a>We sing about the epic future we're living in and the one we're hurtling ourselves toward...</a>
 <p>Play, scroll art, video's, interactive, treasure entry</p>-->
 <!--about-->
-Street Acts
-Live Shows
-PVT & VIP Performances
-Records
-Writing
-Apparel
-Instruments
-Artwork
-Conceptual
+<h3>Music and Art is a powerful way to effect change in the world and we have a lot of fun producing this work to do just that!</h3>
+
+<ul>
+<li>Street Acts</li>
+<li>Live Shows</li>
+<li>PVT & VIP Performances</li>
+<li>Records</li>
+<li>Writing</li>
+<li>Apparel</li>
+<li>Instruments</li>
+<li>Artwork</li>
+<li>Conceptual</li>
+</ul>

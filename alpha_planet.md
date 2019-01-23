@@ -4,19 +4,20 @@ title: Planet and People
 permalink: /planet/
 ---
 
-Because our main aim is to create a beautiful future, we naturally do work in a variety of the following key areas that make a difference to the world.
+<h3>Because our main aim is to create a beautiful future, we naturally do work in a variety of the following key areas that make a difference to the world.</h3>
 
-Consulting
-Home & Garden
-Birding
-Places
-Personal <!--Body mind emotion balancing + thoughts, habits, actions (sessions)-->
-Alien Removals
-Food Gardens
-Land Activations and Regeneration
+<ul>
+<li>Consulting</li>
+<li>Home & Garden</li>
+<li>Birding</li>
+<li>Places</li>
+<li>Personal</li> <!--Body mind emotion balancing + thoughts, habits, actions (sessions)-->
+<li>Alien Removals</li>
+<li>Food Gardens</li>
+<li>Land Activations and Regeneration</li>
 
-Indigenous
-edicine Gardens
-Foods <!--Yoghurt-->
-Plants
-Water Adventures<!--Cayak Tours-->
+<li>Indigenous</li>
+<li>Medicine Gardens</li>
+<li>Foods</li> <!--Yoghurt-->
+<li>Plants</li>
+<li>Water Adventures</li><!--Cayak Tours-->
