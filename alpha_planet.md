@@ -4,7 +4,7 @@ title: Planet and People
 permalink: /planet/
 ---
 
-Because our main aim is to create a beautiful future, we naturally do work in a variety of the following keys areas that make a difference to the world.
+Because our main aim is to create a beautiful future, we naturally do work in a variety of the following key areas that make a difference to the world.
 
 Consulting
 Home & Garden
