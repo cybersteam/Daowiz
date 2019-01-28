@@ -13,12 +13,9 @@ permalink: /technology/
 <li>Pet Remote Viewing</li>
 <li>Camera Management</li>
 <li>Software development</li>
-<li>Animation</li>
-<li>Film Editing</li>
-<li>Digital Art</li>
 <li>Website dev</li>
 <li>Website maintenance</li>
 <li>Digitising Documents</li>
 <li>Prototyping</li>
-<li>Photography</li>
+
 </ul>
