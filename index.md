@@ -5,7 +5,3 @@
 layout: default
 ---
 {% include home.html %}
-
-<div class="playbutt">
-  <p>hello</p>
-  </div>

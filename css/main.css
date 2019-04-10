@@ -3,15 +3,24 @@ body {
   height:200%;
 }
 
-.playbutt{
-  width:200px;
-  height:200px;
+.play{
+  width:100%;
+  text-align:center;
   position:fixed;
-	background-color:#000;
-	color:#FFF;
-	border-radius:10px;
-	text-align:center;
-	box-shadow: 2px 2px 3px #999;
+  color:#FFF;
+  bottom:20%;
+}
+.social{
+  width:auto;
+  height:auto;
+  text-align: center;
+}
+.playbutt{
+  display:inline-block;
+  width:15vw;
+  height:15vw;
+  background-image: url("../assets/img/1432343177.svg");
+  background-size: contain;
 }
 .landingpage{
   background: #fff;
