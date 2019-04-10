@@ -5,9 +5,17 @@ body {
 
 .play{
   width:100%;
+  height:auto;
   text-align:center;
   position:fixed;
   color:#FFF;
+  bottom:20%;
+}
+.playbutt{
+  display:inline-block;
+  width:15vw;
+  height:15vw;
+  text-align: center;
   bottom:20%;
 }
 .social{
@@ -15,13 +23,7 @@ body {
   height:auto;
   text-align: center;
 }
-.playbutt{
-  display:inline-block;
-  width:15vw;
-  height:15vw;
-  background-image: url("../assets/img/1432343177.svg");
-  background-size: contain;
-}
+
 .landingpage{
   background: #fff;
 

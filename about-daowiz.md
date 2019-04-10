@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Daowiz
+title: Dao Wiz
 permalink: /about/
 ---
 {% include head.html %}
