@@ -8,6 +8,8 @@ permalink: /about/
 <a>We believe in a beautiful future! </a>
 <br>
 <a>Where humanities culture, arts and technology all move in sync with nature.</a>
+<br>
+<a>The future is growing... Intelligent, natural world first, harmonious humanity technology. May all else rest in peace.</a>
 </div>
 <!--<a>Namespace - (Pronounced "Dow~Wiz")</a>
 <br>
