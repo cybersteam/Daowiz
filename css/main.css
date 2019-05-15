@@ -2,7 +2,10 @@ body {
   border-top: 15px solid #01579b;
 
 }
-
+.intro{
+  color: #000000;
+  text-align: center;
+}
 .play{
   width:100%;
   height:auto;
