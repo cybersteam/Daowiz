@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 
 <p>
-<a>For bookings, collaborations or other general enquiries etc. Please contact Ivan by mail, whatsapp or phone:</a>
+<a>For bookings, collaborations or other general enquiries etc. Please contact Ivan by email, whatsapp or phone:</a>
 <br>
 <br>
 <strong>Tel: +27 060 402 4843</strong>
