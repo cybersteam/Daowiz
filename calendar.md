@@ -5,17 +5,19 @@ permalink: /calendar/
 ---
 
 <div>
+<img src="../assets/img/gtown.jpg" width="100vw" height="200vh" align="right" hspace="5" vspace="10">
+
 <hr>
 4 Shows at the Graham Hotel, Grahamstown festival fringe 2019
 <br>
 <br>
-3 July 2019 13:00pm
+3 July 13:00pm
 <br>
-4 July 2019 17:00pm
+4 July 17:00pm
 <br>
-5 July 2019 15:00pm
+5 July 15:00pm
 <br>
-6 July 2019 21:00pm
+6 July 21:00pm
 <br>
 <br>
 <a href="https://www.nationalartsfestival.co.za/events/dao-wiz/">Book for one of these shows</a>
