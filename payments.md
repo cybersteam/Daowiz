@@ -1,6 +1,6 @@
 ---
 layout: page_apps
-title: Pass the hat!
+title: Feed the music!
 permalink: /payments/
 ---
 

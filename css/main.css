@@ -24,13 +24,20 @@ body {
 }
 
 .tophat{
-
   z-index: 1000;
   width:13vw;
   height:13vw;
   text-align: left;
   bottom:15vh;
   margin-left: 15px;
+}
+.cal{
+  position: absolute;
+  right: 0px;
+  margin-right: 2em;
+  z-index: 1000;
+  width:13vw;
+  height:13vw;
 }
 
 .social {
