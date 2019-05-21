@@ -4,6 +4,7 @@ body {
 }
 .gtown_logo{
   float:right;
+  text-align: right;
 }
 .message {
   color: #ff0000;
