@@ -5,7 +5,9 @@ permalink: /calendar/
 ---
 
 <div>
-<img src="../assets/img/gtown.jpg" width="100vw" height="200vh" align="right" hspace="5" vspace="10">
+<div class="gtown_logo">
+<img src="../assets/img/gtown.jpg" width="100vw" height="200vh"  hspace="5" vspace="10">
+</div>
 
 <hr>
 4 Shows at the Graham Hotel, Grahamstown festival fringe 2019
