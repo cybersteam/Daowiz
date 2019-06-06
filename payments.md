@@ -1,18 +1,26 @@
 ---
 layout: page_apps
-title: Feed the music!
+title: Create the future!
 permalink: /payments/
 ---
 
-
-<a>Why not drop us some cash if you like the music and want to support us. We accept Bitcoin, Ether, All traditional currencies, other gifts and adventures around the world too! We'd love to come and play.</a>
-<img src="../assets/img/btc.jpg" height="100%" width="100%">
-<img src="../assets/img/eth.jpg" height="100%" width="100%">
-<img src="../assets/img/zapp.jpg" height="100%" width="100%">
-<img src="../assets/img/snap.jpg" height="100%" width="100%">
-<a>Pay with a card:</a>
+<a>We are currently raising funds for a world tour to play our music far and wide, spreading the message of a healthy future for our planet. Why not send us some cash to help us achieve this goal? Your contribution will be wisely spent to create and perform music that inspires people to look inward and take action in their lives to co-create a living future. We accept Bitcoin, Ethereum, All traditional currencies, any other gifts and/or adventures around the world too! We'd love to come and play.</a>
 <br>
-<a href="https://www.payfast.co.za/eng/process?cmd=_paynow&amp;receiver=11414564&amp;item_name=I+love+the+music+fund.&amp;amount=100.00&amp;return_url=http%3A%2F%2Fdaowiz.org&amp;cancel_url=http%3A%2F%2Fdaowiz.org"><img src="https://www.payfast.co.za/images/buttons/dark-large-paynow.png" width="174" height="59" alt="Pay" title="Pay Now with PayFast" /></a>
+<br>
+<strong>Choose a way to pay:</strong>
+<br>
+<br>
+
+<a href="../bitcoin"><img src="../assets/img/currencyicons/bit.png" height="100vw" width="100vw" alt="Bitcoin"></a>
+<a href="../ethereum"><img src="../assets/img/currencyicons/ether.png" height="100vw" width="100vw" alt="Ethereum"></a>
+<a href="../creditcard"><img src="../assets/img/currencyicons/credit-cards-icon.png" height="100vw" width="100vw" alt="Credit Card"></a>
+<a href="../snapscan"><img src="../assets/img/currencyicons/snapscan.png" height="100vw" width="100vw" alt="Snapscan"></a>
+<a href="../zapper"><img src="../assets/img/currencyicons/zapper.jpg" height="100vw" width="100vw" alt="Zapper"></a>
+
+
+
+
+
 <br>
 If you don't find the payment method you would like then <a href="../contact">please let us know</a> so we can add it!
 <br>

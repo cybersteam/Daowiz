@@ -10,13 +10,13 @@ categories: jekyll update
 4 Shows at the Graham Hotel, Grahamstown festival fringe 2019
 <br>
 <br>
-3 July 13:00pm
+3 July 13:00pm - Wednesday
 <br>
-4 July 17:00pm
+4 July 17:00pm - Thursday
 <br>
-5 July 15:00pm
+5 July 15:00pm - Friday
 <br>
-6 July 21:00pm
+6 July 21:00pm - Saturday
 <br>
 <br>
 <a href="https://www.nationalartsfestival.co.za/events/dao-wiz/">Book for one of these shows</a>
