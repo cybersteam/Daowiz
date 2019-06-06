@@ -18,3 +18,7 @@ permalink: /creditcard/
 <br>
 <a href="https://paypal.me/nativeleap?locale.x=en_US"><img src="../assets/img/currencyicons/paypal.png" width="165">
 <hr>
+<br>
+<br>
+<br>
+<br>
