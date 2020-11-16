@@ -11,7 +11,7 @@ permalink: /payments/
 <a>You can also buy an album here<a href="http://daowiz.bandcamp.com">here</a> or visit our shop <a href="https://www.etsy.com/shop/DaoWiz">here</a> for other merchandise.</a>
 <br>
 <br>
-<strong>Choose a way to pay:</strong>
+<strong>Choose a way to send cash:</strong>
 <br>
 <br>
 
