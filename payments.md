@@ -8,10 +8,10 @@ permalink: /payments/
 <a>Watch our daily show on FaceBook live and donate with the easy payment methods below!
 <br>
 <br>
-<a>You can also buy an album here<a href="http://daowiz.bandcamp.com">here</a> or visit our shop <a href="https://www.etsy.com/shop/DaoWiz">here</a> for other merchandise.</a>
+<a>You can also buy an album here<a href="http://daowiz.bandcamp.com">here</a>
 <br>
 <br>
-<strong>Choose a way to pay:</strong>
+<strong>Choose a way to send cash:</strong>
 <br>
 <br>
 
